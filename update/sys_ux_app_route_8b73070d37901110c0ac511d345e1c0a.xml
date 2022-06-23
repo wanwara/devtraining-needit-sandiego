@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="NeedIt Config">8f73c30d879011106608a97e0ebb3566</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Additional details</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(request)">0773070d859011104beb413c4a84890b</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_add</route_type>
+        <screen_type display_value="Additional details">0b73070d12901110dbf76df030a7e10a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-23 18:57:57</sys_created_on>
+        <sys_id>8b73070d37901110c0ac511d345e1c0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_8b73070d37901110c0ac511d345e1c0a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-23 18:57:57</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b73070d37901110c0ac511d345e1c0a"/>
+</record_update>

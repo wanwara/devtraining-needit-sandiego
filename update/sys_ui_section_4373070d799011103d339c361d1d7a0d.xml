@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4373070d799011103d339c361d1d7a0d" sys_domain="global" table="sysapproval_approver" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-06-23 18:57:57</sys_created_on>
+            <sys_id>8773070d35901110c63ab5a8d6bfc50d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="0773070d1f901110384aa44dcd969b0d">4373070d799011103d339c361d1d7a0d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-06-23 18:57:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-06-23 18:57:57</sys_created_on>
+            <sys_id>0b73070df690111053a9ed537386a20d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="0773070d1f901110384aa44dcd969b0d">4373070d799011103d339c361d1d7a0d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-06-23 18:57:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-06-23 18:57:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4373070d799011103d339c361d1d7a0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_4373070d799011103d339c361d1d7a0d</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-06-23 18:57:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="">0773070d1f901110384aa44dcd969b0d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

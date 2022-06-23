@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">8773c30d7590111034acd3527a5769f2</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-23 18:57:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4373c30db79011101c37048e45ee2ef5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_property_4373c30db79011101c37048e45ee2ef5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-23 18:57:57</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_58872_needit.8773c30d7590111034acd3527a5769f2.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>15940d89dbbe7c108aea21c4059619a2</instance_id>
+        <instance_name>dev119763</instance_name>
+        <name>sys_ux_page_property_4373c30db79011101c37048e45ee2ef5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">8773c30d7590111034acd3527a5769f2</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-06-23 18:57:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>4373c30db79011101c37048e45ee2ef5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_page_property_4373c30db79011101c37048e45ee2ef5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-06-23 18:57:57</sys_updated_on><type>json</type><unique_name>x_58872_needit.8773c30d7590111034acd3527a5769f2.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>7879197</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>b82be2f3870011106608a97e0ebb3576</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-19 19:59:09</sys_created_on>
+        <sys_id>19f3038d879011106608a97e0ebb3509</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1817d8c32c80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>d5f3038d7c901110dfce8a5ec734cc09</update_guid>
+        <update_guid_history>d5f3038d7c901110dfce8a5ec734cc09:7879197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 18:59:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3613748d32b14c1aaa03207b48c7eeb1</sys_id>
+        <sys_metadata>4373c30db79011101c37048e45ee2ef5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_4373c30db79011101c37048e45ee2ef5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_4373c30db79011101c37048e45ee2ef5">19f3038d879011106608a97e0ebb3509</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 18:59:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
